@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-Command Line Application That Generates Professional README.md Files
+Command Line Application That Generates Professional README.md Files. Video Walkthrough Also In [Usage](#usage) Section
   
 ## Screenshot
 ![Website Screenshot](img/readme-generator-ss.png)
@@ -22,7 +22,7 @@ Clone Repository And npm install inquirer package
 
 ## Usage
 start application by running node index.js and submit responses the the prompted tasks.
-[Video Walkthrough](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/0d505fc3-3d8f-47c4-yb23-339f316b522e)
+[Video Walkthrough](https://drive.google.com/file/d/1Q-WgAa-_thP_G-DWsZ_RkL-x8G4XMoL-/view)
   
 ## Contribute
 contact me with ideas

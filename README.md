@@ -4,7 +4,7 @@
 ## Description
 Command Line Application That Generates Professional README.md Files
   
-## Deployed Website
+## Screenshot
 ![Website Screenshot](img/readme-generator-ss.png)
   
 ## Table of Contents

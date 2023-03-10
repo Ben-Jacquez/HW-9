@@ -3,7 +3,7 @@
 Command Line Application Generates Professional README.md 
 
 ## Video Demonstration Link:
-[Google ]()
+[Screencastify Link]()
 
 ## Table of Contents
 - [Description](#description)
@@ -20,7 +20,11 @@ Command Line Application Generates Professional README.md
 
 
 ## Technology Used
-
+- Visual Studio Code
+- Javascript
+- Json
+- Node
+- Inquirer Package
 
 ## License
 MIT License

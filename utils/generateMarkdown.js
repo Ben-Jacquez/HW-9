@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// Creates A Function That Returns A License Badge Based On Which License Is Passed In
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license === "MIT") {
@@ -12,36 +12,37 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// Creates A Function That Returns The License Link
+// If There Is No License, Return An Empty String
 function renderLicenseLink(license) {
   if (license === "MIT") {
-    return `https://opensource.org/license/mit/`
+    return `(https://opensource.org/license/mit/)`
   }
   else if (license === "GPLv3") {
-    return `https://www.gnu.org/licenses/gpl-3.0.en.html`
+    return `(https://www.gnu.org/licenses/gpl-3.0.en.html)`
   }
   else {
     return ``
   }
 }
 
-// TODO: Create a function that returns the license section of README
+// Creates a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "MIT") {
-    return `This Project Is Under The [MIT License](https://opensource.org/license/mit/)`
+    return `This Project Is Under The [MIT License]` + renderLicenseLink(license) 
   }
   else if (license === "GPLv3") {
-    return `This Project Is Under The [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)` 
+    return `This Project Is Under The [GPLv3 License]` + renderLicenseLink(license) 
   }
   else {
     return ``
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// Creates a function to generate markdown for README
 function generateMarkdown(data) {
+  // Based Off My Old Template, Can Add Or Remove Stuff After Being Generated
   return `# ${data.title}
 ${renderLicenseBadge(data.license)}
 

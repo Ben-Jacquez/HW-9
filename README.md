@@ -1,50 +1,37 @@
-# Readme Generator By Benjamin Jacquez
+# README.md Generator By Benjamin Jacquez
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ## Description
-Command Line Application Generates Professional README.md 
-
-## Video Demonstration Link:
-[Screencastify Link]()
-
+Command Line Application That Generates Professional README.md Files
+  
+## Deployed Website
+![Website Screenshot](img/readme-generator-ss.png)
+  
 ## Table of Contents
 - [Description](#description)
 - [Deployed Website](#deployed-website)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Technology Used](#technology-used)
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 - [License](#license)
+  
+## Installation 
+Clone Repository And npm install inquirer package
 
 ## Usage
+start application by running node index.js and submit responses the the prompted tasks
+  
+## Contribute
+contact me with ideas
+  
+## Tests
+adding console.log to functions to check their functionality
 
-
-## Features
-
-
-## Technology Used
-- Visual Studio Code
-- Javascript
-- Json
-- Node
-- Inquirer Package
+## Questions
+If You Have Any Questions You Can Reach Me On [Github](https://github.com/Ben-Jacquez) Or Email Me: benjacquez.dev@gmail.com
 
 ## License
-MIT License
+This Project Is Under The [MIT License](https://opensource.org/license/mit/)
 
-Copyright (c) 2022 Benjamin Jacquez
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.

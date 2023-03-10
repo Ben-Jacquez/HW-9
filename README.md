@@ -21,7 +21,8 @@ Command Line Application That Generates Professional README.md Files
 Clone Repository And npm install inquirer package
 
 ## Usage
-start application by running node index.js and submit responses the the prompted tasks
+start application by running node index.js and submit responses the the prompted tasks.
+[Video Walkthrough](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/0d505fc3-3d8f-47c4-yb23-339f316b522e)
   
 ## Contribute
 contact me with ideas

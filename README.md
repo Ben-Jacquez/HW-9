@@ -1,10 +1,9 @@
 # Readme Generator By Benjamin Jacquez
 ## Description
+Command Line Application Generates Professional README.md 
 
-
-## Deployed Website
-[Deployed Version Here]()
-![Website Screenshot]()
+## Video Demonstration Link:
+[Google ]()
 
 ## Table of Contents
 - [Description](#description)
